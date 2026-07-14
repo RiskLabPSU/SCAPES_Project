@@ -1,6 +1,6 @@
 ---
 name: Restricted Data Access Request
-description: Submit a formal application to the SCAPES Leadership Team for pre-transformation spatial coordinates or linked human-household serological records.
+about: Submit a formal application to the SCAPES Data Access Committee (DAC) for pre-transformation spatial coordinates or linked human-household serological records.
 title: "[DATA REQUEST]: <Short Project Title> - <Lead Applicant Name>"
 labels: ["data-request", "pending-review", "DAC"]
 assignees: []
